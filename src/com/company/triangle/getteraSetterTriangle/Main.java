@@ -1,4 +1,4 @@
-import com.company.triangle.Triangle;
+package com.company.triangle.getteraSetterTriangle;
 
 public class Main {
     public static void main(String[] args) {

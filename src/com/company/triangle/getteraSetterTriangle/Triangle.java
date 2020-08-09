@@ -1,4 +1,4 @@
-package com.company.triangle;
+package com.company.triangle.getteraSetterTriangle;
 
 public class Triangle {
 
