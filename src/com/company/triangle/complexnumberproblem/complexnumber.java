@@ -39,11 +39,11 @@ public class complexnumber {
         int first = rNo1*rNo2;
         int outers = rNo1*complexNo2;
         int inners = complexNo*rNo2;
-        int combination= outers+ inners;
-        int last = (complexNo *complexNo2)* -1;
+        int iotaCombination= outers+ inners;
+        int last = (complexNo * complexNo2) * -1;
         int combo = first + last;
         System.out.println("Product of two complex number is");
-        String result = combo + "+" + combination+"i"  ;
+        String result = combo + "+" + iotaCombination+"i"  ;
         System.out.println(result);
 
 
